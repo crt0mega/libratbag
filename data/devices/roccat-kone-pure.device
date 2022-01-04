@@ -1,4 +1,4 @@
 [Device]
 Name=Roccat Kone Pure
-DeviceMatch=usb:1e7d:2dc2;usb:1e7d:2dbe;usb:1e7d:2dcb
+DeviceMatch=usb:1e7d:2dc2;usb:1e7d:2dbe;usb:1e7d:2dcb;usb:1e7d:2dcd
 Driver=roccat-kone-pure
